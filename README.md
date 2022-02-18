@@ -6,5 +6,3 @@ This is Header 2
 This is header 3
 ## quote
 > Try your best and never give up
-#### Updated
- 
